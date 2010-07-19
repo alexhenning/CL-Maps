@@ -9,7 +9,9 @@ Dependencies
 Algorithms
 ----------
 
-### `random-map`
+### The `random-map` Algorithm
+
 Results: Poor
+
 This algorithm randomly assigns each location one of the 13 terrains.
-![A disappointing random map.](screenshot/random-map(1).png "A random map")
+![A disappointing random map.](screenshot/random-map_1.png "A random map")
