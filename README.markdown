@@ -15,4 +15,4 @@ Results: Poor
 
 This algorithm randomly assigns each location one of the 13 terrains.
 
-![A disappointing random map.](screenshots/random-map_1.png "A random map")
+![A disappointing random map.](http://github.com/alexhenning/CL-Maps/raw/master/screenshots/random-map_1.png "A random map")
