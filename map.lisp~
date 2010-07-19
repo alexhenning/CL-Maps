@@ -1,0 +1,15 @@
+
+
+(asdf:oos 'asdf:load-op 'lispbuilder-sdl)
+
+(defun run ()
+  (with-init ()
+    (sdl:window 400 400 :title-caption "Maps")
+    (setf (sdl:frame-rate) 30)
+
+    (sdl:with-events ()
+      (:quit-event () t)
+
+      (:idle ()
+	))))
+
